@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @gordawn1
-- 👀 I’m interested in metadata and CSM data editor
-- 🌱 I’m currently learning how to use github
-- 💞️ I’m looking to collaborate with Byron, Makani and Shanthanu
-- 📫 How to reach me ...
+👋 Hi, I’m @gordawn1
+🌱 I’m currently learning how to use github
 
 <!---
 gordawn1/gordawn1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
